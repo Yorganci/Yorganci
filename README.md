@@ -1,11 +1,12 @@
 <h1 align="center">Welcome to my corner of the digital realm! I'm Bunyan</h1>
 <h3 align="center">A passionate computer systems engineering student (Carleton University) dedicated to transforming complex technological challenges into streamlined solutions. With a fervent love for all things tech, I thrive on the intricacies of designing, implementing, and optimizing cutting-edge computer systems.</h3>
-<br>
+<p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=turn+coffee+%E2%98%95++into+code+%3C%2F%3E">
-<br>
+</p>
 <p align="center">
     <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
 </p>
+
 - 🌱 I’m currently learning **Object Oriented Programming and Computer Architecture.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yorganci](https://github.com/Yorganci)
