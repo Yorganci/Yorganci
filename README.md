@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yorganci](https://github.com/Yorganci)
 
-- 👨‍💻 Check out my website [Here](https://yorganci.github.io/index.html)
+- 👨‍💻 Check out my website [here!](https://yorganci.github.io/index.html)
 
 - 📫 How to reach me **bunyanyorganci@gmail.com**
 
